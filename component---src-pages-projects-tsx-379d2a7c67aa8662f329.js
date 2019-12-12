@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{229:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),o=a(45),l=a(225),r=a(224);t.default=function(){return c.a.createElement(l.a,null,c.a.createElement(r.a,{title:"Richard's projects"}),c.a.createElement("h1",null,"Hi from the second page"),c.a.createElement("p",null,"Welcome to page 2"),c.a.createElement(o.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-projects-tsx-379d2a7c67aa8662f329.js.map

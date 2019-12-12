@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{227:function(e,t,a){"use strict";a.r(t);var n=a(0),o=a.n(n),c=a(45),l=a(225),r=a(224);t.default=function(){return o.a.createElement(l.a,null,o.a.createElement(r.a,{title:"Richard's info"}),o.a.createElement("h1",null,"Hi from the second page"),o.a.createElement("p",null,"Welcome to page 2"),o.a.createElement(c.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-13a4f6f0a23dd1155691.js.map
