@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar works 1`] = `
+.c0 {
+  padding-right: 0.5rem;
+}
+
+<li
+  class="c0"
+/>
+`;
