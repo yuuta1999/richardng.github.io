@@ -71,7 +71,7 @@
     "build": "gatsby build",
     "build:pp": "yarn build --prefix-paths",
     "build:gh": "rm -rf public && rm -rf .cache && yarn build",
-    "deploy": "yarn build:gh && gh-pages -d public -r https://2cd5f09a0943ae685d6260e7d960e1db481a21a9@github.com/yuuta1999/richardng.github.io.git",
+    "deploy": "yarn build:gh && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
