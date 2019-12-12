@@ -9,6 +9,7 @@ require('ts-node').register({
 module.exports = {
   // General information for SEO
   siteMetadata: {
+    pathPrefix: '/',
     title: 'Richard\'s personal blog',
     titleAlt: 'Richard\'s blog',
     description: 'A place where Richard tells his story',
